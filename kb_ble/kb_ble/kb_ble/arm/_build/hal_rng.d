@@ -1,0 +1,16 @@
+.\_build\hal_rng.o: ..\..\..\source\hal_rng.c
+.\_build\hal_rng.o: ..\..\..\include\hal_rng.h
+.\_build\hal_rng.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\hal_rng.o: ..\..\..\sdk_components\softdevice\s110\headers\nrf_error.h
+.\_build\hal_rng.o: ..\..\..\sdk_components\softdevice\s110\headers\nrf_sdm.h
+.\_build\hal_rng.o: ..\..\..\sdk_components\softdevice\s110\headers\nrf_svc.h
+.\_build\hal_rng.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.24.1\Device\Include\nrf51.h
+.\_build\hal_rng.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0.h
+.\_build\hal_rng.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\_build\hal_rng.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\_build\hal_rng.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.24.1\Device\Include\system_nrf51.h
+.\_build\hal_rng.o: ..\..\..\sdk_components\softdevice\s110\headers\nrf_soc.h
+.\_build\hal_rng.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\_build\hal_rng.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.24.1\Device\Include\nrf51_bitfields.h
+.\_build\hal_rng.o: ..\..\..\sdk_components\softdevice\s110\headers\nrf_error_soc.h
+.\_build\hal_rng.o: ..\..\..\sdk_components\softdevice\s110\headers\nrf_error_sdm.h

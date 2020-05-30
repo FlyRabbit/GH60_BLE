@@ -1,0 +1,30 @@
+{
+  "ble_cgm": {
+    "_class":"nRF_BLE",
+    "_description": "Glucose Service",
+    "_group": "BLE_Services", 
+    "_attrs":["public"],
+    "_files": [
+      {
+        "_value": "ble_cgm.c",
+        "_attrs":["lock"]
+      },
+      {
+        "_value": "ble_cgm_db.c",
+        "_attrs":["lock"]
+      }      
+    ],
+    "_headers": [
+      {
+        "_value": "ble_cgm.h",
+        "_attrs":["lock"]
+      }       
+    ],
+    "_includes": [
+      "."
+    ],
+    "_links": [
+      "ble_service_common"
+    ]
+  }
+}

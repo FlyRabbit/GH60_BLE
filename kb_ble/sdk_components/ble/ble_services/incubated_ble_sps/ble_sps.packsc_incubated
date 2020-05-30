@@ -1,0 +1,26 @@
+{
+  "ble_sps": {
+    "_class":"nRF_BLE",
+    "_description": "Serial Port Service",
+    "_group": "BLE_Services", 
+    "_attrs":["public"],
+    "_files": [
+      {
+        "_value": "ble_sps.c",
+        "_attrs":["lock"]
+      }          
+    ],
+    "_headers": [
+      {
+        "_value": "ble_sps.h",
+        "_attrs":["lock"]
+      }       
+    ],
+    "_includes": [
+      "."
+    ],
+    "_links": [
+      "ble_service_common"
+    ]
+  }
+}

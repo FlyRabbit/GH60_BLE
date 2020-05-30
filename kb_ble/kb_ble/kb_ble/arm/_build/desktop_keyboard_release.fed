@@ -1,0 +1,153 @@
+;#<FEEDBACK># ARM Linker, 5060528: Last Updated: Sat May 30 14:15:50 2020
+;VERSION 0.2
+;FILE app_scheduler.o
+__asm___15_app_scheduler_c_d997b682____REV16 <= USED 0
+__asm___15_app_scheduler_c_d997b682____REVSH <= USED 0
+;FILE app_timer.o
+__asm___11_app_timer_c_cd27f9c3____REV16 <= USED 0
+__asm___11_app_timer_c_cd27f9c3____REVSH <= USED 0
+app_timer_cnt_diff_compute <= USED 0
+app_timer_cnt_get <= USED 0
+app_timer_stop_all <= USED 0
+;FILE app_timer_appsh.o
+;FILE arm_startup_nrf51.o
+;FILE ble_advdata.o
+;FILE ble_bas.o
+;FILE ble_conn_params.o
+;FILE ble_dfu.o
+ble_dfu_bytes_rcvd_report <= USED 0
+ble_dfu_pkts_rcpt_notify <= USED 0
+;FILE ble_dis.o
+;FILE ble_flash.o
+__asm___11_ble_flash_c_0294ac3c____REV16 <= USED 0
+__asm___11_ble_flash_c_0294ac3c____REVSH <= USED 0
+ble_flash_crc16_compute <= USED 0
+ble_flash_on_radio_active_evt <= USED 0
+ble_flash_page_addr <= USED 0
+ble_flash_page_read <= USED 0
+ble_flash_page_write <= USED 0
+ble_flash_word_write <= USED 0
+;FILE ble_hids.o
+ble_hids_outp_rep_get <= USED 0
+;FILE ble_srv_common.o
+characteristic_add <= USED 0
+;FILE bootloader_util.o
+;FILE crc16.o
+;FILE device_manager_peripheral.o
+__asm___27_device_manager_peripheral_c_6ec1034b____REV16 <= USED 0
+__asm___27_device_manager_peripheral_c_6ec1034b____REVSH <= USED 0
+bond_data_load <= USED 0
+dm_application_instance_set <= USED 0
+dm_device_add <= USED 0
+dm_device_delete_all <= USED 0
+dm_distributed_keys_get <= USED 0
+dm_handle_get <= USED 0
+dm_peer_addr_set <= USED 0
+dm_security_setup_req <= USED 0
+dm_security_status_req <= USED 0
+dm_service_context_delete <= USED 0
+dm_service_context_get <= USED 0
+;FILE dfu_app_handler.o
+__asm___17_dfu_app_handler_c_1fffb1b5____REV16 <= USED 0
+__asm___17_dfu_app_handler_c_1fffb1b5____REVSH <= USED 0
+__asm___17_dfu_app_handler_c_1fffb1b5__nrf_delay_us <= USED 0
+dfu_app_dm_appl_instance_set <= USED 0
+dfu_app_reset_prepare_set <= USED 0
+;FILE drv_keyboard_cherry8x16.o
+__asm___25_drv_keyboard_cherry8x16_c_e731a181____REV16 <= USED 0
+__asm___25_drv_keyboard_cherry8x16_c_e731a181____REVSH <= USED 0
+drv_keyboard_keys_held <= USED 0
+;FILE hal_adc.o
+__asm___9_hal_adc_c_124a296d____REV16 <= USED 0
+__asm___9_hal_adc_c_124a296d____REVSH <= USED 0
+;FILE hal_gpiote.o
+__asm___12_hal_gpiote_c_3bb2fe7b____REV16 <= USED 0
+__asm___12_hal_gpiote_c_3bb2fe7b____REVSH <= USED 0
+__asm___12_hal_gpiote_c_3bb2fe7b__nrf_delay_us <= USED 0
+hal_gpiote_cb_clr <= USED 0
+hal_gpiote_cfg <= USED 0
+;FILE hal_rng.o
+__asm___9_hal_rng_c_2f6cc53d____REV16 <= USED 0
+__asm___9_hal_rng_c_2f6cc53d____REVSH <= USED 0
+hal_rng_vector_get <= USED 0
+;FILE m_batt_meas.o
+__asm___13_m_batt_meas_c_51fc3e24____REV16 <= USED 0
+__asm___13_m_batt_meas_c_51fc3e24____REVSH <= USED 0
+m_batt_meas_polling_disable <= USED 0
+m_batt_meas_polling_enable <= USED 0
+;FILE m_coms.o
+__asm___8_m_coms_c_ee598958____REV16 <= USED 0
+__asm___8_m_coms_c_ee598958____REVSH <= USED 0
+m_coms_battery_level_update <= USED 0
+m_coms_hid_report_descriptor_add <= USED 0
+m_coms_hid_report_id_map <= USED 0
+m_coms_hid_report_id_map_external <= USED 0
+m_coms_passkey_set <= USED 0
+m_coms_read_respond <= USED 0
+;FILE m_coms_ble.o
+__asm___12_m_coms_ble_c_f5fc3198____REV16 <= USED 0
+__asm___12_m_coms_ble_c_f5fc3198____REVSH <= USED 0
+__asm___12_m_coms_ble_c_f5fc3198__nrf_delay_us <= USED 0
+dfu_update_crc <= USED 0
+m_coms_ble_addr_get <= USED 0
+m_coms_ble_bond_clear <= USED 0
+m_coms_ble_disconnect <= USED 0
+m_coms_ble_oobkey_set <= USED 0
+m_coms_ble_read_respond <= USED 0
+m_coms_ble_report_id_map_external <= USED 0
+;FILE m_coms_ble_addr.o
+__asm___17_m_coms_ble_addr_c_88988c8f____REV16 <= USED 0
+__asm___17_m_coms_ble_addr_c_88988c8f____REVSH <= USED 0
+;FILE m_coms_ble_adv.o
+__asm___16_m_coms_ble_adv_c_92dc1cf8____REV16 <= USED 0
+__asm___16_m_coms_ble_adv_c_92dc1cf8____REVSH <= USED 0
+m_coms_ble_adv_bondable_running <= USED 0
+;FILE m_coms_ble_hid.o
+__asm___16_m_coms_ble_hid_c_a25ac583____REV16 <= USED 0
+__asm___16_m_coms_ble_hid_c_a25ac583____REVSH <= USED 0
+m_coms_ble_hid_feature_report_set <= USED 0
+m_coms_ble_hid_report_id_map_external <= USED 0
+;FILE m_keyboard.o
+__asm___12_m_keyboard_c_db285831____REV16 <= USED 0
+__asm___12_m_keyboard_c_db285831____REVSH <= USED 0
+m_keyboard_matrix_disable <= USED 0
+m_keyboard_packet_is_empty <= USED 0
+m_keyboard_polling_disable <= USED 0
+m_keyboard_polling_enable <= USED 0
+;FILE m_pwr_and_clk_mgmt.o
+__asm___20_m_pwr_and_clk_mgmt_c_7a570f2e____REV16 <= USED 0
+__asm___20_m_pwr_and_clk_mgmt_c_7a570f2e____REVSH <= USED 0
+m_prw_mgmt_set_idle_timeout <= USED 0
+m_pwr_mgmt_stay_in_sysoff <= USED 0
+;FILE main.o
+__asm___6_main_c_1751ccdf____REV16 <= USED 0
+__asm___6_main_c_1751ccdf____REVSH <= USED 0
+__asm___6_main_c_1751ccdf__nrf_delay_us <= USED 0
+;FILE nrf_delay.o
+__asm___11_nrf_delay_c_532987f3____REV16 <= USED 0
+__asm___11_nrf_delay_c_532987f3____REVSH <= USED 0
+__asm___11_nrf_delay_c_532987f3__nrf_delay_us <= USED 0
+nrf_delay_ms <= USED 0
+;FILE nrf_drv_common.o
+__asm___16_nrf_drv_common_c_68d8f45c____REV16 <= USED 0
+__asm___16_nrf_drv_common_c_68d8f45c____REVSH <= USED 0
+nrf_drv_common_irq_enable <= USED 0
+;FILE nrf_nvmc.o
+__asm___10_nrf_nvmc_c_9880936b____REV16 <= USED 0
+__asm___10_nrf_nvmc_c_9880936b____REVSH <= USED 0
+nrf_nvmc_page_erase <= USED 0
+nrf_nvmc_write_byte <= USED 0
+nrf_nvmc_write_bytes <= USED 0
+nrf_nvmc_write_word <= USED 0
+nrf_nvmc_write_words <= USED 0
+;FILE pstorage.o
+__asm___10_pstorage_c_1dab5049____REV16 <= USED 0
+__asm___10_pstorage_c_1dab5049____REVSH <= USED 0
+;FILE softdevice_handler.o
+__asm___20_softdevice_handler_c_370b0038____REV16 <= USED 0
+__asm___20_softdevice_handler_c_370b0038____REVSH <= USED 0
+intern_softdevice_events_execute <= USED 0
+;FILE system_nrf51.o
+SystemCoreClockUpdate <= USED 0
+__asm___14_system_nrf51_c_5d646a67____REV16 <= USED 0
+__asm___14_system_nrf51_c_5d646a67____REVSH <= USED 0

@@ -1,0 +1,14 @@
+.\_build\drv_keyboard_cherry8x16.o: ..\..\..\source\drv_keyboard_cherry8x16.c
+.\_build\drv_keyboard_cherry8x16.o: ..\..\..\include\drv_keyboard_matrix.h
+.\_build\drv_keyboard_cherry8x16.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\_build\drv_keyboard_cherry8x16.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\drv_keyboard_cherry8x16.o: ..\io_cfg.h
+.\_build\drv_keyboard_cherry8x16.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.24.1\Device\Include\nrf.h
+.\_build\drv_keyboard_cherry8x16.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.24.1\Device\Include\nrf51.h
+.\_build\drv_keyboard_cherry8x16.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0.h
+.\_build\drv_keyboard_cherry8x16.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\_build\drv_keyboard_cherry8x16.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\_build\drv_keyboard_cherry8x16.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.24.1\Device\Include\system_nrf51.h
+.\_build\drv_keyboard_cherry8x16.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.24.1\Device\Include\nrf51_bitfields.h
+.\_build\drv_keyboard_cherry8x16.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.24.1\Device\Include\nrf51_deprecated.h
+.\_build\drv_keyboard_cherry8x16.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.24.1\Device\Include\compiler_abstraction.h
